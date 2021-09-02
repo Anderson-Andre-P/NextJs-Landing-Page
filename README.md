@@ -6,9 +6,10 @@
    Website desenvolvido com o objetivo de me introduzir ao ReactJs e ao NextJs.
 </h3>
 
-<p align="center">
-  Fiz o projeto seguindo um tutorial do youtube. <a href="https://www.youtube.com/watch?v=iGBERMGMIvc" target="_blank">Link do tutorial.</a>.
-</p>
+<ul>
+  <li>Tutorial: <a href="https://www.youtube.com/watch?v=iGBERMGMIvc" target="_blank">Link</a></li>
+  <li>Deploy: <a href="https://next-js-react-website.netlify.app/" target="_blank">Link</a></li>
+</ul>
 
 <h2 align="center">
   <img alt="Demo" title="#Demo" src="https://github.com/Anderson-Andre-P/NextJs-Landing-Page/blob/main/Demo2.png">
